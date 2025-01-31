@@ -166,3 +166,5 @@ config.py
 /analyses/*.json
 /plots/*.png
 /reports/*.csv
+
+py-wb-analysis.zip
